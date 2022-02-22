@@ -1,0 +1,2 @@
+rootProject.name = "MyMultiTouchTest"
+include ':app'
